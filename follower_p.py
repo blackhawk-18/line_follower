@@ -48,5 +48,7 @@ class Follower:
 rospy.init_node('follower')
 follower = Follower()
 print "do follow my github if this worked for you"
+print "mail em for more information : memon3669@gmail.com"
+print "enjoy learning"
 rospy.spin()
 # END ALL
