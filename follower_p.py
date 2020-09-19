@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-"""line_follower.py: Robot will follow the Yellow Line in a track"""
+"""line_follower.py: Robot will follow the Black Line in a track"""
 
 __author__  = "Ibrahim memon"
 
